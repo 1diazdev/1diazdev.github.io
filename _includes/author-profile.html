@@ -46,6 +46,9 @@
       {% if author.platzi %}
       <li><a href="https://platzi.com/p/{{ author.platzi }}"><i class="fab fa-fw fa-product-hunt" aria-hidden="true"></i> Platzi</a></li>
       {% endif %}
+      {% if author.freecodecamp %}
+      <li><a href="https://www.freecodecamp.org/{{ author.freecodecamp }}"><i class="fab fa-fw fa-free-code-camp" aria-hidden="true"></i> FreeCodeCamp</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
