@@ -1,22 +1,25 @@
-# main links links
+# main links customized with JPDiaz navigation bar
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+
+  - title: "Hoja De Vida"
     url: /cv/
-    
+
+  - title: "CV pdf"
+    url: /files/linkedin-resume--jun-2023.pdf
+
+  - title: "Platzi"
+    url: /publications/
+
+  - title: "Big Projects"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "Guide"
     url: /markdown/
