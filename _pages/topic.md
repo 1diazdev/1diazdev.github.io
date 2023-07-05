@@ -3,8 +3,8 @@ permalink: /topic/
 title: "Topic..."
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /topic/
+  # - /markdown.html
 ---
 
 Guide...Need another name
