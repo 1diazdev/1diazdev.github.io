@@ -3,3 +3,6 @@
 
 <p align="justify">
 Passionate about full stack web dev, seeking startup for growth. Values discipline, loyalty, reliability, self-motivation. Enjoys learning new skills.</p>
+
+
+text escrito por juanPabloDiaz from another account
