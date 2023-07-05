@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /topic/
 title: "Topic..."
 author_profile: true
 redirect_from: 
