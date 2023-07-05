@@ -21,5 +21,6 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "New Topic"
+    url: /topic/
+Guide
