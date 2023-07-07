@@ -4,3 +4,5 @@
 Passionate about full stack web dev, seeking startup for growth. Values discipline, loyalty, reliability, self-motivation. Enjoys learning new skills.</p>
 
 escribo esto desde MSI con ambas cuentas en git
+
+soy 1dev
