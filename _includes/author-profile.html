@@ -76,6 +76,12 @@ site.author %} {% endif %}
           FreeCodeCamp</a
         >
       </li>
+      {% endif %} {% if author.medium %}
+      <li>
+        <a href="https://www.medium.org/{{ author.medium }}"
+          ><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a
+        >
+      </li>
       {% endif %} {% if author.keybase %}
       <li>
         <a href="https://keybase.io/{{ author.keybase }}"
