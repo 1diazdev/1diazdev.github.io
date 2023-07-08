@@ -78,8 +78,14 @@ site.author %} {% endif %}
       </li>
       {% endif %} {% if author.medium %}
       <li>
-        <a href="https://www.medium.org/{{ author.medium }}"
+        <a href="https://www.medium.com/{{ author.medium }}"
           ><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a
+        >
+      </li>
+      {% endif %} {% if author.dev %}
+      <li>
+        <a href="https://www.dev.to/{{ author.medium }}"
+          ><i class="fab fa-fw fa-dev" aria-hidden="true"></i> Dev</a
         >
       </li>
       {% endif %} {% if author.keybase %}
