@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-
 <iframe src="https://resume.creddle.io/embed/9um4zrxd89s"
-  width="850" height="1100" seamless></iframe>
+  width="850" height="1100" frameborder="0" scrolling="no" seamless></iframe>
