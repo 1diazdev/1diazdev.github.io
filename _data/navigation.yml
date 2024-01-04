@@ -3,17 +3,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Resume"
-    url: /cv/
-
-  - title: "CV PDF"
+  - title: "CV"
     url: /files/linkedin-resume--jun-2023.pdf
 
   - title: "Platzi"
     url: /publications/
-
-  - title: "Big Projects"
-    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
