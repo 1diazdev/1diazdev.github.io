@@ -1,25 +1,25 @@
 # main links customized with JPDiaz navigation bar
 main:
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Resume"
     url: /cv/
 
-  # - title: "CV PDF"
-  #   url: /files/linkedin-resume--jun-2023.pdf
+  - title: "CV PDF"
+    url: /files/linkedin-resume--jun-2023.pdf
 
-  # - title: "Platzi"
-  #   url: /publications/
+  - title: "Platzi"
+    url: /publications/
 
-  # - title: "Big Projects"
-  #   url: /talks/
+  - title: "Big Projects"
+    url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
-  # - title: "Blog"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: /year-archive/
 
-  # - title: "New Topic"
-  #   url: /topic/
+  - title: "New Topic"
+    url: /topic/
