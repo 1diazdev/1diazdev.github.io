@@ -4062,10 +4062,6 @@ readers do not read off random characters that represent icons */
   content: "\f3ee";
 }
 
-.fa-sitemap:before {
-  content: "\f0e8";
-}
-
 .fa-sith:before {
   content: "\f512";
 }
@@ -5253,11 +5249,12 @@ readers do not read off random characters that represent icons */
   width: 1px;
 }
 
-.sr-only-focusable:active, .sr-only-focusable:focus {
+.sr-only-focusable:active,
+.sr-only-focusable:focus {
   clip: auto;
   height: auto;
   margin: 0;
   overflow: visible;
   position: static;
   width: auto;
-}/*# sourceMappingURL=fontawesome.css.map */
+} /*# sourceMappingURL=fontawesome.css.map */
