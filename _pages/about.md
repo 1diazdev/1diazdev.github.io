@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there..."
+title: "Juan Diaz<br/><img src='/images/avatar.svg' width='300' alt='title'>"
 excerpt: "About me<br/><img src='/images/avatar.svg' width='300' alt='title'>"
 author_profile: true
 redirect_from:
