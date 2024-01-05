@@ -14,8 +14,8 @@ redirect_from:
 Passionate about full stack web dev, seeking startup for growth. Values discipline, loyalty, reliability, self-motivation. Enjoys learning new skills.</p>
 <div align="center">
   <a href="https://jpdiaz.dev">
-    <img src="/images/avatar.svg" width="300">
-    <img src="../images/avatar.svg" width="300">
-    <img src="../images/avatar.png" width="300">
+    <img src="/images/avatar.svg" width="300" alt="1">
+    <img src="../images/avatar.svg" width="300" alt="2">
+    <img src="../images/avatar.png" width="300" alt="3">
   </a>
 </div>
