@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi there..."
-excerpt: "About me"
+excerpt: "About me"<img src="/images/avatar.svg" width="300" alt="1">
 author_profile: true
 redirect_from:
   - /about/
